@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Alvaro Concha!
+
+Neuroscience | Neural Data and Animal Behavior Analysis | MSc Physics
+
+[![Linkedin: alvaro-concha](https://img.shields.io/badge/alvaro--concha-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-concha/)](https://www.linkedin.com/in/alvaro-concha/)
+[![Gmail: alvarogymnas@gmail.com](https://img.shields.io/badge/alvarogymnas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:alvarogymnas@gmail.com)](mailto:alvarogymnas@gmail.com)
+[![Neurobiology of Movement Lab](https://img.shields.io/badge/research-nemov--lab-aquamarine?style=flat-square&link=https://fisica.cab.cnea.gov.ar/fisica-medica/bs/nm/)](https://fisica.cab.cnea.gov.ar/fisica-medica/bs/nm/)
 
 <!--
 **alvaro-concha/alvaro-concha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
