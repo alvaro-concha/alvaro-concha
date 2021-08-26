@@ -1,4 +1,4 @@
-### Hi, I'm Alvaro Concha!
+### Hi, I'm Alvaro!
 
 Neuroscience | Neural Data and Animal Behavior Analysis | MSc Physics
 
