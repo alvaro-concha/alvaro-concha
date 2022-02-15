@@ -1,6 +1,6 @@
 ### Hi, I'm Alvaro!
 
-Neuroscience | Neural Data and Animal Behavior Analysis | MSc Physics
+Data Science | Neural Data and Animal Behavior Analysis | MSc Physics
 
 [![Linkedin: alvaro-concha](https://img.shields.io/badge/alvaro--concha-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-concha/)](https://www.linkedin.com/in/alvaro-concha/)
 [![Gmail: alvarogymnas@gmail.com](https://img.shields.io/badge/alvarogymnas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:alvarogymnas@gmail.com)](mailto:alvarogymnas@gmail.com)
