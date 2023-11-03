@@ -1,9 +1,9 @@
 ### Hi, I'm Alvaro!
 
-Data Science · Credit Risk · Behavioral Neuroscience
-
 [![Linkedin: alvaro-concha](https://img.shields.io/badge/alvaro--concha-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-concha/)](https://www.linkedin.com/in/alvaro-concha/)
 [![Gmail: alvaro.concha.contact@gmail.com](https://img.shields.io/badge/alvaro.concha.contact@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:alvaro.concha.contact@gmail.com)](mailto:alvaro.concha.contact@gmail.com)
+
+I'm a data scientist with more than 4 years of experience developing big data and analytics solutions, improving and documenting data processing and analysis pipelines, applying machine learning models to solve complex industry problems and autonomously learning new techniques. Skilled in Python, SQL, GCP, Git and various data science libraries, with knowledge of SAS, Spark, Hadoop, Docker, AWS, Azure and other technologies.
 
 <!--
 **alvaro-concha/alvaro-concha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
